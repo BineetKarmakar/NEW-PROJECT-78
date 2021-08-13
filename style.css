@@ -1,0 +1,13 @@
+body{
+  text-align:center;
+    background:linear-gradient(#05faf2 0%,#05faa8 100%);
+}
+#album{
+  height:350px;
+}
+div{
+  padding:40px;
+}
+#name{
+  background-color:#18FFFF;
+}
